@@ -1,0 +1,13 @@
+Regras do jogo
+
+(inicial e preliminar)
+
+regras simples:
+  2 jogadores pegam uma carta aleatória da pilha.
+  jogadores escolhem a cada rodada em qual aspecto suas cartas competem.
+  cartas se revelam; carta com mais pontos acrescenta um ponto ao seu usuário.
+  após um número prederminado de rodadas, o jogador com mais pontos vence.
+  
+  EXTRA:
+    -competição entre duas cartas gatilha uma animação com os 2 dogs.
+    -chances pequenas de ocorrer um evento que aumente algum atributo de um dos cachorros(chuva de churrasco, enchente, etc)

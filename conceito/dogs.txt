@@ -1,0 +1,28 @@
+Cachorros são o centro das atenções nesse aplicativo.
+São representados por cartas com atributos. Estes afetarão as interações entre cachorros.
+
+INTERAÇÃO ENTRE CACHORROS
+Cachorros podem interagir entre si, com sua própria pessoa ou com o campo.
+Interações
+  -atacar
+    ataca um oponente.
+  -habilidade
+    cada tipo de dog tem sua habilidade especial.
+  -comer
+    dogs podem comer pra ganhar mais hp. A cada rodada se perde HP, logo é mandatório comer ou derrotar.
+
+ESTRUTURA BÁSICA DE UMA CARTA(Notação XML):
+<Dog tipo="vira-lata caramelo">
+  <hp>300 </hp>
+  <capacidade de comer churrasco extra="come de tudo"> 7 </capacidade de comer churrasco>
+  <sobrevivência na rua> 9</sobrevivência na rua>
+  <camaradagem>6</camaradagem>
+</Dog>
+
+<Dog tipo="pug">
+  <hp>50</hp>
+  <capacidade de comer churrasco> 4 </capacidade de comer churrasco>
+  <sobrevivência na rua> 2</sobrevivência na rua>
+  <camaradagem>8</camaradagem>
+</Dog>
+
